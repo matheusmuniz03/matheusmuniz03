@@ -1,4 +1,3 @@
-### Hi there :abanando:
 <!--
 **matheusmuniz03/matheusmuniz03** is a :brilhos: _special_ :brilhos: repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
