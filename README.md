@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 
 ## Minhas Redes Sociais
 <div>
-  <a style="margin-right: 15px;" href="mailto:muralha2000@gmail.com" target="_blank">
+  <a style="margin-right: 15px;" href="mailto:matheusmuniz100@hotmail.com" target="_blank">
     <img width="64px" alt="gmail" src="https://clipartpngfree.com/save/internet/computer_icons_gmail_google_account.png" />
   </a>
-  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/muriloas/" target="_blank">
+  <a style="margin-right: 15px;" href="https://www.linkedin.com/in/matheus-muniz-dev/" target="_blank">
     <img width="64px" alt="linkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
   </a>
 </div>
