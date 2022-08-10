@@ -11,12 +11,9 @@ Here are some ideas to get you started:
 - :alta_tensão: Fun fact: ...
 -->
 ## Matheus Muniz Fagundes N Lau
-## GitHub Stats
-<div>
-<a href="https://github.com/matheusmuniz03">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmuniz03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmuniz03&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+
+## Sobre Mim
+Eu sou o Matheus Muniz, estou cursando Engenharia Elétrica na Universidade Federal de Juiz de Fora, mas recentemente me apaixonei pelo desenvolvimento de software e claro, estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente 😅. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato ter me apaixonado por programação no primeiro contato que tive com a area.
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
@@ -39,4 +36,11 @@ Here are some ideas to get you started:
   <a style="margin-right: 15px;" href="https://www.linkedin.com/in/matheus-muniz-dev/" target="_blank">
     <img width="64px" alt="linkedIn" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />
   </a>
+</div>
+
+## GitHub Stats
+<div>
+<a href="https://github.com/matheusmuniz03">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusmuniz03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusmuniz03&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
