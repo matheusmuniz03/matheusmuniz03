@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## Matheus Muniz Fagundes N Lau
 
 ## Sobre Mim
-Eu sou o Matheus Muniz, estou cursando Engenharia Elétrica na Universidade Federal de Juiz de Fora, mas recentemente me apaixonei pelo desenvolvimento de software e claro, estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente 😅. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato ter me apaixonado por programação no primeiro contato que tive com a area.
+Eu sou o Matheus Muniz, estou cursando Engenharia Elétrica na Universidade Federal de Juiz de Fora, mas recentemente me apaixonei pelo desenvolvimento de software e claro, estou me capacitando cada dia mais afim de me transformar em Desenvolvedor Full Stack. Se me perguntarem o motivo da minha mudança de área, provavelmente eu direi que a programação me faz estressar e virar as noites de uma maneira diferente 😅. De fato, estes são alguns elementos que acompanham muitos desenvolvedores, mas o real motivo para eu entrar nesta área se deve ao fato ter me apaixonado por programação no primeiro contato que tive com c++.
 
 ## Tecnologias e Ferramentas
 <div style="display: inline_block"><br>
